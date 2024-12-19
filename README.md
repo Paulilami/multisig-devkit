@@ -14,8 +14,8 @@ This DevKit includes:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd <repo-directory>
+   git clone https://github.com/Paulilami/multisig-devkit
+   cd multisig-devkit
    ```
 2. Install dependencies:
    ```bash
